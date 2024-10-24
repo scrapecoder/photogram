@@ -11,8 +11,7 @@ const http = require('http');
 const app = express();
 const port = 3000;
 
-mongoose.connect(`mongodb+srv://node-task:${process.env.MONGO_PASSWORD}@cluster0.qgzvhs7.mongodb.net`);
-
+mongoose.connect(`mongodb+srv://souravkukreti84:${process.env.MONGO_PASSWORD}@cluster0.qovbc.mongodb.net`);
 app.use(parser.urlencoded({ extended: false }));
 app.use(parser.json());
 

@@ -1,8 +1,8 @@
 {
     "env": {
-        "MONGO_PASSWORD": "node-task",
+        "MONGO_PASSWORD": "",
         "JWT_KEY": "TODOLIST@SECURE_KEY",
-        "ACCOUNT_EMAIL": "sourav_kukreti@softprodigy.com",
-        "ACCOUNT_PASSWORD": "zsif mvuw pmqz aipq"
+        "ACCOUNT_EMAIL": "",
+        "ACCOUNT_PASSWORD": ""
     }
 }
